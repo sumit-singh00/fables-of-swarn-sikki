@@ -273,7 +273,7 @@ nav .item .svg-icon {
 }
 
 .collection-title img:nth-child(2) {
-  margin-left: 30px;
+  margin-left: 30px !important;
 }
 
 .footer {
